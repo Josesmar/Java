@@ -1,0 +1,8 @@
+FatorialRecursivo.java
+ FatorialRecursivo
+FuncaoComClasseAnonima.java
+ FuncaoComClasseAnonima
+FatorialTailCall.java
+ FatorialTailCall
+FatorialMemorization.java
+ FatorialMemorization
