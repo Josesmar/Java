@@ -1,8 +1,22 @@
+FatorialMemorization.java
+ FatorialMemorization
+Predicados.java
+ Predicados
+Consumidores.java
+ Consumidores
 FatorialRecursivo.java
  FatorialRecursivo
+Iteracoes.java
+ Iteracoes
 FuncaoComClasseAnonima.java
  FuncaoComClasseAnonima
 FatorialTailCall.java
  FatorialTailCall
-FatorialMemorization.java
- FatorialMemorization
+Funcoes.java
+ Funcoes
+Suppliers.java
+ Pessoa
+ Suppliers
+FuncaoAltaOrdem.java
+ Calculo
+ FuncaoAltaOrdem
