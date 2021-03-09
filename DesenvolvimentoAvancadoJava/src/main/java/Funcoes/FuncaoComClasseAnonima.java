@@ -1,3 +1,5 @@
+package Funcoes;
+
 public class FuncaoComClasseAnonima {
     public static void main(String[] args) {
 
