@@ -1,3 +1,5 @@
+package Fatorial;
+
 public class FatorialTailCall {
     public static void main(String[] args) {
         System.out.println(fatorial(105));
