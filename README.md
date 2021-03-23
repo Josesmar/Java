@@ -1,4 +1,4 @@
-Algumas novidades do Java 10 e 11.
+Funcções aplicadas na versão do Java 10 e 11.
 
 > Paradigma funcional
 > Lambda
