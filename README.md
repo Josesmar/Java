@@ -1,4 +1,4 @@
-Funcções aplicadas na versão do Java 10 e 11.
+Funções aplicadas na versão do Java 10 e 11.
 
 > Paradigma funcional
 > Lambda
